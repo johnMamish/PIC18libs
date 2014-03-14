@@ -1,0 +1,1 @@
+This repo contains files that are supposed to be general puropse for random use in projects featuring a PIC18.  Whether these are actually general purpose or not is pretty debatable.  It's kind of embarrassing to put these on github, but some of my projects depend on files in here.
